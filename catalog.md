@@ -2,6 +2,7 @@
 
 每行一個主題，格式：主題名稱|關鍵字（逗號分隔）|網址
 （# 開頭的行和空行會被忽略。要新增知識：英文檔名 .md 丟上這個 repo，然後在下面加一行。）
+# ⚠️ 產生／編輯任何知識 .md 前，先讀本 repo 的 _格式規範.md（不用表格、適時加 emoji、短句短段）。
 
 AI平面QA|AI平面,平面設計,品牌課,接案,行情,就業,作品集,免費資源,免費影片,YouTube,81小時,基礎功,昱安,Hammer,施國漢,TA,受眾,創業,設計小白,天花板,年資,in-house|https://raw.githubusercontent.com/ham15154321-oss/hegrn-kb/main/graphic-qa.md
 
